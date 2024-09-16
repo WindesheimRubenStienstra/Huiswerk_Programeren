@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "W2 Leerstof", "W2 Leerstof.vcxproj", "{23D084A4-AB6E-4DC2-938A-0085C144C89E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23D084A4-AB6E-4DC2-938A-0085C144C89E}.Debug|x64.ActiveCfg = Debug|x64
+		{23D084A4-AB6E-4DC2-938A-0085C144C89E}.Debug|x64.Build.0 = Debug|x64
+		{23D084A4-AB6E-4DC2-938A-0085C144C89E}.Debug|x86.ActiveCfg = Debug|Win32
+		{23D084A4-AB6E-4DC2-938A-0085C144C89E}.Debug|x86.Build.0 = Debug|Win32
+		{23D084A4-AB6E-4DC2-938A-0085C144C89E}.Release|x64.ActiveCfg = Release|x64
+		{23D084A4-AB6E-4DC2-938A-0085C144C89E}.Release|x64.Build.0 = Release|x64
+		{23D084A4-AB6E-4DC2-938A-0085C144C89E}.Release|x86.ActiveCfg = Release|Win32
+		{23D084A4-AB6E-4DC2-938A-0085C144C89E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B43E8D85-C45A-4092-85C4-C55112D56844}
+	EndGlobalSection
+EndGlobal
