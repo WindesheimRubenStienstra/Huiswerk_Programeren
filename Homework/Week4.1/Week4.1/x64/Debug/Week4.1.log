@@ -1,0 +1,7 @@
+﻿  Opdrachten_W4.c
+C:\Users\CroppedThrone\Desktop\School projecten\Huiswerk_Programeren\Homework\Week4.1\Opdrachten_W4.c(69,11): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\CroppedThrone\Desktop\School projecten\Huiswerk_Programeren\Homework\Week4.1\Opdrachten_W4.c(29,1): warning C4716: 'CijferSwap': must return a value
+C:\Users\CroppedThrone\Desktop\School projecten\Huiswerk_Programeren\Homework\Week4.1\Opdrachten_W4.c(18,1): warning C4716: 'AantalKeer': must return a value
+C:\Users\CroppedThrone\Desktop\School projecten\Huiswerk_Programeren\Homework\Week4.1\Opdrachten_W4.c(108,1): warning C4715: 'KleinsteSomDelerGood': not all control paths return a value
+C:\Users\CroppedThrone\Desktop\School projecten\Huiswerk_Programeren\Homework\Week4.1\Opdrachten_W4.c(76,1): warning C4715: 'KleinsteSomDelerBad': not all control paths return a value
+  Week4.1.vcxproj -> C:\Users\CroppedThrone\Desktop\School projecten\Huiswerk_Programeren\Homework\Week4.1\x64\Debug\Week4.1.exe
