@@ -1,0 +1,3 @@
+﻿  Opdrachten_W4.c
+C:\Users\CroppedThrone\Desktop\School projecten\Huiswerk_Programeren\Homework\Week4\Opdrachten_W4.c(5,22): warning C4013: 'GemiddeldeGetal' undefined; assuming extern returning int
+C:\Users\CroppedThrone\Desktop\School projecten\Huiswerk_Programeren\Homework\Week4\Opdrachten_W4.c(9,8): error C2371: 'GemiddeldeGetal': redefinition; different basic types

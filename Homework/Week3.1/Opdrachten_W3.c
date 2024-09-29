@@ -124,7 +124,7 @@ void main()
 
 #pragma region Opd 9 Ik heb geen idee waarom dit niet werkt
 
-	//// Formule: Index, -2 Index, -1 Fibonacci.
+	// Formule: Index, -2 Index, -1 Fibonacci.
 	//int targetNumber = 1;
 	//int crFibonacciNumber = 0;
 
@@ -323,6 +323,23 @@ void main()
 #pragma endregion
 
 #pragma region Opd 12 Geen idee wat een faculteit is en snap de formule niet echt.
+
+// (N!) == Faculteit: (N = 4) = 4 * 3 * 2 * 1.(N = 1) = 1 * 1. (N = 0) = 1. 
+
+	int faculteit = 0;
+	int resultaat = 0;
+
+	printf("Geef de faculteit: ");
+
+	int scanNumber = scanf("%d", &faculteit);
+
+	for (int i = 1; i < faculteit +1; i++)
+	{
+		resultaat += i * i;
+
+		printf("\n CrResultaat: %d = Faculteit: %d * %d", resultaat, faculteit, i);
+	}
+
 
 
 
