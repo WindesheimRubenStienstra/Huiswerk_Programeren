@@ -33,7 +33,7 @@
     <ClCompile Include="Opdracht6.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Opdracht7.c">
+    <ClCompile Include="Opdracht7Tot10.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

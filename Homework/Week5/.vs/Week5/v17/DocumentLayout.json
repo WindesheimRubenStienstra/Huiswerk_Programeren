@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\CroppedThrone\\Desktop\\School projecten\\Huiswerk_Programeren\\Homework\\Week5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A217B3D5-5832-4D1B-943B-FC3B9A2C181D}|Week5.vcxproj|C:\\Users\\CroppedThrone\\Desktop\\School projecten\\Huiswerk_Programeren\\Homework\\Week5\\Opdracht7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A217B3D5-5832-4D1B-943B-FC3B9A2C181D}|Week5.vcxproj|solutionrelative:Opdracht7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A217B3D5-5832-4D1B-943B-FC3B9A2C181D}|Week5.vcxproj|C:\\Users\\CroppedThrone\\Desktop\\School projecten\\Huiswerk_Programeren\\Homework\\Week5\\Opdracht7Tot10.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A217B3D5-5832-4D1B-943B-FC3B9A2C181D}|Week5.vcxproj|solutionrelative:Opdracht7Tot10.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A217B3D5-5832-4D1B-943B-FC3B9A2C181D}|Week5.vcxproj|C:\\Users\\CroppedThrone\\Desktop\\School projecten\\Huiswerk_Programeren\\Homework\\Week5\\Opdracht6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A217B3D5-5832-4D1B-943B-FC3B9A2C181D}|Week5.vcxproj|solutionrelative:Opdracht6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A217B3D5-5832-4D1B-943B-FC3B9A2C181D}|Week5.vcxproj|C:\\Users\\CroppedThrone\\Desktop\\School projecten\\Huiswerk_Programeren\\Homework\\Week5\\Opdracht1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A217B3D5-5832-4D1B-943B-FC3B9A2C181D}|Week5.vcxproj|solutionrelative:Opdracht1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A217B3D5-5832-4D1B-943B-FC3B9A2C181D}|Week5.vcxproj|C:\\Users\\CroppedThrone\\Desktop\\School projecten\\Huiswerk_Programeren\\Homework\\Week5\\Opdracht2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A217B3D5-5832-4D1B-943B-FC3B9A2C181D}|Week5.vcxproj|solutionrelative:Opdracht2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A217B3D5-5832-4D1B-943B-FC3B9A2C181D}|Week5.vcxproj|C:\\Users\\CroppedThrone\\Desktop\\School projecten\\Huiswerk_Programeren\\Homework\\Week5\\Opdracht3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A217B3D5-5832-4D1B-943B-FC3B9A2C181D}|Week5.vcxproj|solutionrelative:Opdracht3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A217B3D5-5832-4D1B-943B-FC3B9A2C181D}|Week5.vcxproj|C:\\Users\\CroppedThrone\\Desktop\\School projecten\\Huiswerk_Programeren\\Homework\\Week5\\Opdracht4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -17,6 +25,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A217B3D5-5832-4D1B-943B-FC3B9A2C181D}|Week5.vcxproj|C:\\Users\\CroppedThrone\\Desktop\\School projecten\\Huiswerk_Programeren\\Homework\\Week5\\Opdracht5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A217B3D5-5832-4D1B-943B-FC3B9A2C181D}|Week5.vcxproj|solutionrelative:Opdracht5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A217B3D5-5832-4D1B-943B-FC3B9A2C181D}|Week5.vcxproj|C:\\Users\\CroppedThrone\\Desktop\\School projecten\\Huiswerk_Programeren\\Homework\\Week5\\Opdracht6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A217B3D5-5832-4D1B-943B-FC3B9A2C181D}|Week5.vcxproj|solutionrelative:Opdracht6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,37 +38,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Opdracht1.c",
+              "DocumentMoniker": "C:\\Users\\CroppedThrone\\Desktop\\School projecten\\Huiswerk_Programeren\\Homework\\Week5\\Opdracht1.c",
+              "RelativeDocumentMoniker": "Opdracht1.c",
+              "ToolTip": "C:\\Users\\CroppedThrone\\Desktop\\School projecten\\Huiswerk_Programeren\\Homework\\Week5\\Opdracht1.c",
+              "RelativeToolTip": "Opdracht1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-12T14:53:08.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Opdracht3.c",
+              "DocumentMoniker": "C:\\Users\\CroppedThrone\\Desktop\\School projecten\\Huiswerk_Programeren\\Homework\\Week5\\Opdracht3.c",
+              "RelativeDocumentMoniker": "Opdracht3.c",
+              "ToolTip": "C:\\Users\\CroppedThrone\\Desktop\\School projecten\\Huiswerk_Programeren\\Homework\\Week5\\Opdracht3.c",
+              "RelativeToolTip": "Opdracht3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-12T14:53:05.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Opdracht2.c",
+              "DocumentMoniker": "C:\\Users\\CroppedThrone\\Desktop\\School projecten\\Huiswerk_Programeren\\Homework\\Week5\\Opdracht2.c",
+              "RelativeDocumentMoniker": "Opdracht2.c",
+              "ToolTip": "C:\\Users\\CroppedThrone\\Desktop\\School projecten\\Huiswerk_Programeren\\Homework\\Week5\\Opdracht2.c",
+              "RelativeToolTip": "Opdracht2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-12T14:53:04.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Opdracht7.c",
-              "DocumentMoniker": "C:\\Users\\CroppedThrone\\Desktop\\School projecten\\Huiswerk_Programeren\\Homework\\Week5\\Opdracht7.c",
-              "RelativeDocumentMoniker": "Opdracht7.c",
-              "ToolTip": "C:\\Users\\CroppedThrone\\Desktop\\School projecten\\Huiswerk_Programeren\\Homework\\Week5\\Opdracht7.c",
-              "RelativeToolTip": "Opdracht7.c",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACEAAAAVAAAAAAAAAA==",
+              "Title": "Opdracht7Tot10.c",
+              "DocumentMoniker": "C:\\Users\\CroppedThrone\\Desktop\\School projecten\\Huiswerk_Programeren\\Homework\\Week5\\Opdracht7Tot10.c",
+              "RelativeDocumentMoniker": "Opdracht7Tot10.c",
+              "ToolTip": "C:\\Users\\CroppedThrone\\Desktop\\School projecten\\Huiswerk_Programeren\\Homework\\Week5\\Opdracht7Tot10.c",
+              "RelativeToolTip": "Opdracht7Tot10.c",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAKUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-10-10T08:10:12.823Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Opdracht6.c",
               "DocumentMoniker": "C:\\Users\\CroppedThrone\\Desktop\\School projecten\\Huiswerk_Programeren\\Homework\\Week5\\Opdracht6.c",
               "RelativeDocumentMoniker": "Opdracht6.c",
               "ToolTip": "C:\\Users\\CroppedThrone\\Desktop\\School projecten\\Huiswerk_Programeren\\Homework\\Week5\\Opdracht6.c",
               "RelativeToolTip": "Opdracht6.c",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwDwAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-10-10T07:28:09.324Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Opdracht5.c",
               "DocumentMoniker": "C:\\Users\\CroppedThrone\\Desktop\\School projecten\\Huiswerk_Programeren\\Homework\\Week5\\Opdracht5.c",
               "RelativeDocumentMoniker": "Opdracht5.c",
@@ -69,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Opdracht4.c",
               "DocumentMoniker": "C:\\Users\\CroppedThrone\\Desktop\\School projecten\\Huiswerk_Programeren\\Homework\\Week5\\Opdracht4.c",
               "RelativeDocumentMoniker": "Opdracht4.c",

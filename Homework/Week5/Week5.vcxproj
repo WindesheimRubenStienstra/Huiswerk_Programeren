@@ -133,7 +133,7 @@
     <ClCompile Include="Opdracht4.c" />
     <ClCompile Include="Opdracht5.c" />
     <ClCompile Include="Opdracht6.c" />
-    <ClCompile Include="Opdracht7.c" />
+    <ClCompile Include="Opdracht7Tot10.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
