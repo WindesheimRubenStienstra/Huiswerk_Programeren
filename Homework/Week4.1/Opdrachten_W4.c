@@ -8,7 +8,7 @@ int swapB = 5;
 
 double GemiddeldeGetalPakken(int a, int b, int c, int d)
 {
-	return (a + b + c + d)/4;
+	return (double)((a + b + c + d)/4);
 }
 
 int AantalKeer()
@@ -149,10 +149,10 @@ void main()
 
 #pragma region Opd 1
 
-	/*double gemiddelde = 2.0;
+	double gemiddelde = 0.0;
 	gemiddelde = GemiddeldeGetalPakken(1, 2, 3, 4);
 
-	printf("%f", gemiddelde);*/
+	printf("%f", gemiddelde);
 #pragma endregion
 
 #pragma region Opd 2

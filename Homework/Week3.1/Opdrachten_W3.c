@@ -122,9 +122,9 @@ void main()
 
 #pragma endregion
 
-#pragma region Opd 9 Ik heb geen idee waarom dit niet werkt
+#pragma region Opd 9 Ik heb geen idee wat voor formule ik moet opstellen.
 
-	// Formule: Index, -2 Index, -1 Fibonacci.
+	//Formule: Index, -2 Index, -1 Fibonacci.
 	//int targetNumber = 1;
 	//int crFibonacciNumber = 0;
 
@@ -135,7 +135,7 @@ void main()
 	//int scanNumber = scanf("%d", &targetNumber);
 
 	//int a = 0;
-	//for (size_t i = 0; i < targetNumber; i++)
+	//for (int i = 0; i < targetNumber; i++)
 	//{
 	//	if(a >= 3)
 	//	{
@@ -324,22 +324,36 @@ void main()
 
 #pragma region Opd 12 Geen idee wat een faculteit is en snap de formule niet echt.
 
-// (N!) == Faculteit: (N = 4) = 4 * 3 * 2 * 1.(N = 1) = 1 * 1. (N = 0) = 1. 
+ ////(N!) == Faculteit: (N = 4) = 4 * 3 * 2 * 1.(N = 1) = 1 * 1. (N = 0) = 1. 
 
 	int faculteit = 0;
-	int resultaat = 0;
+	int resultaatA = 1;
 
 	printf("Geef de faculteit: ");
 
 	int scanNumber = scanf("%d", &faculteit);
 
-	for (int i = 1; i < faculteit +1; i++)
+	for (int i = 1; i < faculteit; i++)
 	{
-		resultaat += i * i;
+		resultaatA += resultaatA * i;
 
-		printf("\n CrResultaat: %d = Faculteit: %d * %d", resultaat, faculteit, i);
+		printf("\n CrResultaat: %d = Faculteit: %d * %d", resultaatA, resultaatA / i, i);
 	}
 
+	int resultaatEuler = 1;
+
+	for (int i = 1; i < faculteit; i++)
+	{
+		int resultaatA = 1;
+		for (int i = 1; i < faculteit; i++)
+		{
+			resultaatA += resultaatA * i;
+
+			printf("\n CrResultaat: %d = Faculteit: %d * %d", resultaatA, resultaatA / i, i);
+		}
+		resultaatEuler += resultaatEuler / resultaatA;
+			
+	}
 
 
 

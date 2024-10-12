@@ -1,0 +1,2 @@
+﻿Uitleg.obj : error LNK2005: main already defined in Theorie.obj
+C:\Users\CroppedThrone\Desktop\School projecten\Huiswerk_Programeren\Learning\W4_Leerstof\x64\Debug\W4_Leerstof.exe : fatal error LNK1169: one or more multiply defined symbols found

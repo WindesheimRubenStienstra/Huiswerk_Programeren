@@ -3,8 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\CroppedThrone\\Desktop\\School projecten\\Huiswerk_Programeren\\Homework\\Week3.1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CroppedThrone\\Desktop\\School projecten\\Huiswerk_Programeren\\Homework\\Week3.1\\Opdrachten_W3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Opdrachten_W3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{39B21FAC-3BFB-4D67-B006-00BD2B239F50}|Week3.1.vcxproj|C:\\Users\\CroppedThrone\\Desktop\\School projecten\\Huiswerk_Programeren\\Homework\\Week3.1\\Opdrachten_W3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{39B21FAC-3BFB-4D67-B006-00BD2B239F50}|Week3.1.vcxproj|solutionrelative:Opdrachten_W3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CroppedThrone\\Desktop\\School projecten\\Huiswerk_Programeren\\Homework\\Week4.1\\Opdrachten_W4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +17,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Opdrachten_W4.c",
+              "DocumentMoniker": "C:\\Users\\CroppedThrone\\Desktop\\School projecten\\Huiswerk_Programeren\\Homework\\Week4.1\\Opdrachten_W4.c",
+              "RelativeDocumentMoniker": "..\\Week4.1\\Opdrachten_W4.c",
+              "ToolTip": "C:\\Users\\CroppedThrone\\Desktop\\School projecten\\Huiswerk_Programeren\\Homework\\Week4.1\\Opdrachten_W4.c",
+              "RelativeToolTip": "..\\Week4.1\\Opdrachten_W4.c",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-30T08:12:31.629Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +40,7 @@
               "RelativeDocumentMoniker": "Opdrachten_W3.c",
               "ToolTip": "C:\\Users\\CroppedThrone\\Desktop\\School projecten\\Huiswerk_Programeren\\Homework\\Week3.1\\Opdrachten_W3.c",
               "RelativeToolTip": "Opdrachten_W3.c",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAAFEBAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAFoBAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-09-19T12:42:27.1Z",
               "EditorCaption": ""
